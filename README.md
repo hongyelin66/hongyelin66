@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hongyelin66
+- 👋 Hi, I’m Hongye Lin, a student of University of Washington.
 - 👀 I’m interested in playing games.
 - 🌱 I’m currently learning Python and Java.
 - 💞️ I’m looking to collaborate on nothing.
